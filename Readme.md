@@ -20,6 +20,12 @@ npm start
 ```
 ---
 ## Screenshots:
-<img width="958" alt="image" src="https://github.com/JDBhogate/Todo-app-using-MERN/assets/129050974/17879ca3-47cb-43f9-99c2-c45800732eba">
+<img width="959" alt="image" src="https://github.com/JDBhogate/Todo-app-using-MERN/assets/129050974/aa2cede6-7181-4b28-8748-d4899c2b3a71">
 
-    
+<img width="953" alt="image" src="https://github.com/JDBhogate/Todo-app-using-MERN/assets/129050974/ed9918aa-8c89-41f4-aed0-0352c2a1575c">
+
+<img width="960" alt="image" src="https://github.com/JDBhogate/Todo-app-using-MERN/assets/129050974/b9669214-0b37-46db-810b-c0fbf90db491">
+
+<img width="960" alt="image" src="https://github.com/JDBhogate/Todo-app-using-MERN/assets/129050974/59631680-aaff-430e-9e7d-cc6eb19d1faf">
+
+
