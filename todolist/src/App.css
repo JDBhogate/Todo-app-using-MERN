@@ -1,54 +1,68 @@
-.home{
+/* Styles for the main container */
+.home {
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: #f0f0f0; /* Background color for the main container */
+  padding: 20px; /* Add some padding for spacing */
 }
 
+/* Styles for the create form */
 .create_form input {
-  width: 350px; /* Increase the width to your desired size */
-  padding: 10px; /* Increase the padding to adjust the input field size */
-  border-bottom: 2px solid;
+  width: 100%; /* Make the input field full width */
+  padding: 12px; /* Increase padding for better input field size */
+  border: 1px solid #ccc; /* Add a border for input fields */
+  border-radius: 5px; /* Round the corners */
   outline: none;
 }
 
-
 .create_form button {
-  padding: 10px;
-  background-color: black;
-  color:white;
+  padding: 12px 20px; /* Add some padding and spacing to the button */
+  background-color: #007bff; /* Change button background color */
+  color: white;
+  border: none;
+  border-radius: 5px;
   cursor: pointer;
 }
 
-.task{
+/* Styles for individual tasks */
+.task {
   display: flex;
   align-items: center;
-  width: 345px;
+  width: 100%; /* Make each task full width */
   justify-content: space-between;
-  background-color: black;
-  color:white;
-  height: 35px;
-  padding: 2px 5px 2px 5px;
-  margin-top: 2px;
+  background-color: #fff; /* Task background color */
+  color: #333; /* Task text color */
+  height: 50px; /* Increase task height for better visibility */
+  padding: 10px; /* Add padding for spacing */
+  margin-top: 10px; /* Increase margin for spacing between tasks */
+  border: 1px solid #ccc; /* Add a border to separate tasks */
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
 }
 
-.checkbox{
+/* Styles for checkboxes and task text */
+.checkbox {
   display: flex;
   align-items: center;
 }
 
-.line_through{
+.task.completed {
   text-decoration: line-through;
+  color: #999; /* Change the color of completed tasks */
 }
 
-.checkbox .icon{
-  margin-right: 5px;
-  font-size: 15px;
+/* Adjust the checkbox icon */
+.checkbox .icon {
+  margin-right: 10px;
+  font-size: 20px; /* Increase the checkbox size */
+  cursor: pointer;
 }
 
-.task div span{
-  margin:0px 5px 0px 4px
+.task div span {
+  margin: 0 10px 0 4px; /* Adjust spacing */
 }
 
-.task div .icon{
+.task div .icon {
   cursor: pointer;
 }
