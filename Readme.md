@@ -13,6 +13,10 @@ I did this app to learn how to combine all the individual technologies I learned
 cd todolist
 npm run dev
 ```
-
+6.Then open new terminal and input this commands
+```
+cd Server
+npm start
+```
 
     
