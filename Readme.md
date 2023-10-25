@@ -10,10 +10,8 @@ I did this app to learn how to combine all the individual technologies I learned
 4. Open >Todo-app-using-MERN >Server >index.js and do the MongoDB connection by changing mongoose.connect to your localhost available in your home page of MongoDB application.
 5. Then open terminal and do the next commands
 
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
+Sample text here...
+```
 
 
     
