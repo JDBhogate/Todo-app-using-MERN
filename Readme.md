@@ -1,7 +1,7 @@
 # To-Do List Web Application 
 ---
-This is a to-do list app made with the MERN(Mongo Express React Node) Stack.
-I did this app to learn how to combine all the individual technologies I learned and create an app in the MERN stack.
+- This is a to-do list app made with the MERN(Mongo Express React Node) Stack.
+- I did this app to learn how to combine all the individual technologies 
 ---
 ## Steps to run this web application:
 ---
