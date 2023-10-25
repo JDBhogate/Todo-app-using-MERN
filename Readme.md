@@ -48,4 +48,8 @@ npm start
 
 ---
 
+![Alt text][id]
 
+### Give me a start if your like this video 8-) ;)
+
+[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
