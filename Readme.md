@@ -18,5 +18,8 @@ npm run dev
 cd Server
 npm start
 ```
+---
+## Screenshots:
+<img width="958" alt="image" src="https://github.com/JDBhogate/Todo-app-using-MERN/assets/129050974/17879ca3-47cb-43f9-99c2-c45800732eba">
 
     
